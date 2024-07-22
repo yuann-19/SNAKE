@@ -1,6 +1,6 @@
-const lobi=new Audio("lobi.mp3");
-lobi.loop=true;
-lobi.play();
+const lob=new Audio("lobi.mp3");
+lob.loop=true;
+lob.play();
 const boton=document.getElementById('btn');
 boton.addEventListener("click",
 function(){
