@@ -4,4 +4,4 @@ lobi.play();
 const boton=document.getElementById('btn');
 boton.addEventListener("click",
 function(){
-window.location.href = 'https://codepen.io/Kevin1Pereira/pen/KKjMPGK';});
+window.location.href = 'https://yuann-19.github.io/SNAKE-GAME/';});
