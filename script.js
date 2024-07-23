@@ -7,3 +7,6 @@ const boton=document.getElementById('btn');
 boton.addEventListener("click",
 function(){
 window.location.href = 'https://yuann-19.github.io/SNAKE-GAME/';});
+var miAudio = document.getElementById('miAudio');
+miAudio.loop=true;
+miAudio.play();
